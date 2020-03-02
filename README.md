@@ -1,1 +1,1 @@
-This program mimics OES teacher comments. 
+This program mimics teacher comments. 
